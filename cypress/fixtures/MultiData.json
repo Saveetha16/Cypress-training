@@ -1,0 +1,21 @@
+
+{
+
+    "Login": [
+        {
+            "uname": "Tester",
+            "password": "test"
+        },
+
+        {
+            "uname": "Tester",
+            "password": "test"
+        },
+        {
+            "uname": "Tester",
+            "password": "test"
+        }
+
+            ]
+
+}
